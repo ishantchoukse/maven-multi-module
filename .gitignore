@@ -1,3 +1,8 @@
 /.idea/
 */target/
 /.idea/
+/from-intellij/.flattened-pom.xml
+/jpa-entities/.flattened-pom.xml
+/web-api/.flattened-pom.xml
+/web-app/.flattened-pom.xml
+/.flattened-pom.xml
